@@ -10,3 +10,7 @@ a {
 .a-hover:hover {
     color: red;
 }
+
+.a-hover{
+    color: white;
+}
